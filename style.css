@@ -1,0 +1,35 @@
+.linea-divisora {
+    border-top: 3px solid lightgray;
+}
+
+.card-img-top-1 {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
+
+.card-img-top-2 {
+    width: 350px;
+    height: 187px;
+    object-fit: cover;
+}
+
+.card-img-top-3 {
+    width: 150px;
+    height: 100px;
+}
+
+.barra-noticia {
+    border-top: 1px solid rgb(211, 208, 208);
+    border-bottom: 1px solid rgb(211, 208, 208);
+    padding: 7px;
+}
+
+.tipografia-anuncio {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 10px;
+}
+
+.tipografia-noticia {
+    font-size: 20px;
+}
